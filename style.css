@@ -1,0 +1,133 @@
+
+
+#colorButton {
+
+	 float:left;
+	-moz-box-shadow:inset 0px 1px 0px 0px #f29c93;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #f29c93;
+	box-shadow:inset 0px 1px 0px 0px #f29c93;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #fe1a00), color-stop(1, #ce0100) );
+	background:-moz-linear-gradient( center top, #fe1a00 5%, #ce0100 100% );
+	background-color:#fe1a00;
+	-webkit-border-top-left-radius:7px;
+	-moz-border-radius-topleft:7px;
+	border-top-left-radius:7px;
+	-webkit-border-top-right-radius:7px;
+	-moz-border-radius-topright:7px;
+	border-top-right-radius:7px;
+	-webkit-border-bottom-right-radius:7px;
+	-moz-border-radius-bottomright:7px;
+	border-bottom-right-radius:7px;
+	-webkit-border-bottom-left-radius:7px;
+	-moz-border-radius-bottomleft:7px;
+	border-bottom-left-radius:7px;
+	border:1px solid #d83526;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	height:40px;
+	line-height:40px;
+	width:100px;
+	text-align:center;
+	text-shadow:1px 1px 0px #b23e35;
+
+}
+
+#colorButton:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ce0100), color-stop(1, #fe1a00) );
+	background:-moz-linear-gradient( center top, #ce0100 5%, #fe1a00 100% );
+	background-color:#ce0100;
+}#colorButton:active {
+	position:relative;
+	top:1px;
+}
+
+#uncolorButton {
+
+	 float:left;
+	-moz-box-shadow:inset 0px 1px 0px 0px #f29c93;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #f29c93;
+	box-shadow:inset 0px 1px 0px 0px #f29c93;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #fe1a00), color-stop(1, #ce0100) );
+	background:-moz-linear-gradient( center top, #fe1a00 5%, #ce0100 100% );
+	background-color:#fe1a00;
+	-webkit-border-top-left-radius:7px;
+	-moz-border-radius-topleft:7px;
+	border-top-left-radius:7px;
+	-webkit-border-top-right-radius:7px;
+	-moz-border-radius-topright:7px;
+	border-top-right-radius:7px;
+	-webkit-border-bottom-right-radius:7px;
+	-moz-border-radius-bottomright:7px;
+	border-bottom-right-radius:7px;
+	-webkit-border-bottom-left-radius:7px;
+	-moz-border-radius-bottomleft:7px;
+	border-bottom-left-radius:7px;
+	border:1px solid #d83526;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	height:40px;
+	line-height:40px;
+	width:100px;
+	text-align:center;
+	text-shadow:1px 1px 0px #b23e35;
+
+}
+
+#uncolorButton:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ce0100), color-stop(1, #fe1a00) );
+	background:-moz-linear-gradient( center top, #ce0100 5%, #fe1a00 100% );
+	background-color:#ce0100;
+}#uncolorButton:active {
+	position:relative;
+	top:1px;
+}
+
+#randomButton {
+
+	 float:left;
+	-moz-box-shadow:inset 0px 1px 0px 0px #f29c93;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #f29c93;
+	box-shadow:inset 0px 1px 0px 0px #f29c93;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #fe1a00), color-stop(1, #ce0100) );
+	background:-moz-linear-gradient( center top, #fe1a00 5%, #ce0100 100% );
+	background-color:#fe1a00;
+	-webkit-border-top-left-radius:7px;
+	-moz-border-radius-topleft:7px;
+	border-top-left-radius:7px;
+	-webkit-border-top-right-radius:7px;
+	-moz-border-radius-topright:7px;
+	border-top-right-radius:7px;
+	-webkit-border-bottom-right-radius:7px;
+	-moz-border-radius-bottomright:7px;
+	border-bottom-right-radius:7px;
+	-webkit-border-bottom-left-radius:7px;
+	-moz-border-radius-bottomleft:7px;
+	border-bottom-left-radius:7px;
+	border:1px solid #d83526;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	height:40px;
+	line-height:40px;
+	width:100px;
+	text-align:center;
+	text-shadow:1px 1px 0px #b23e35;
+
+}
+
+#randomButton:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ce0100), color-stop(1, #fe1a00) );
+	background:-moz-linear-gradient( center top, #ce0100 5%, #fe1a00 100% );
+	background-color:#ce0100;
+}#randomButton:active {
+	position:relative;
+	top:1px;
+}
